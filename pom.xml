@@ -13,6 +13,7 @@
     <module>sample-app-engine</module>
     <module>sample-app</module>
     <module>cargo-maven-test</module>
+    <module>cargo-junit-test</module>
   </modules>
 
   <dependencyManagement>
@@ -80,6 +81,12 @@
         <groupId>org.jboss.logging</groupId>
         <artifactId>jboss-logging</artifactId>
         <version>3.3.0.Final</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.codehaus.cargo</groupId>
+        <artifactId>cargo-core-uberjar</artifactId>
+        <version>1.6.2</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
