@@ -14,7 +14,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <sample.app.url>http://localhost:8080/sample-app/car</sample.app.url>
+    <sample.app.url>http://localhost:8080/sample-app/rest/car</sample.app.url>
   </properties>
 
   <dependencies>

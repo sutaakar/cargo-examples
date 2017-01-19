@@ -29,7 +29,7 @@ import org.junit.runners.Parameterized;
 @RunWith(Parameterized.class)
 public class CarIntegrationTest {
 
-    private static final String appUrl = System.getProperty("sample.app.url", "http://localhost:8080/sample-app/car");
+    private static final String appUrl = System.getProperty("sample.app.url", "http://localhost:8080/sample-app/rest/car");
     private static final String BMW = "<car><name>BMW</name></car>";
 
     private Client httpClient;
