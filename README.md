@@ -15,3 +15,7 @@ Deploy and test demo application using Cargo Java API.
 
 ###cargo-arquillian-test
 Deploy and test demo application using Cargo Maven plugin and Arquillian.
+
+###cargo-keycloak-test
+Deploy and test demo application using Cargo Maven plugin and Keycloak.
+Requires running Keycloak instance on port 8230 with users and roles configured according to other test modules.
