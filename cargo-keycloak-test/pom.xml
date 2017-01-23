@@ -15,6 +15,8 @@
 
   <properties>
     <sample.app.url>http://localhost:8080/sample-app/rest/car</sample.app.url>
+    <keycloak.realm.public.key>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvn2R5nFeBpTZMawB/FagimYhp3kib21QAkuUZsK9MbH5I4f2Dk1fy5LmdytmqtLWj0bqIXxD9ORrwlVuRU6xEI1F7PExXQOzww1klohaqR6SJzMfA0mY7qQtww2ipoQ0htFIU/SClYOot4jtCbj1zKojM83zdIQz7/ZhrzKVC9aKYZXy1PSGnXODHiTXQ6RpenGT1amZdU4h2i5SlnQyzGHHfKT6N6FZ2jNay+M9zfDsrzUNwUSeVIUgW0xEtFMcXW0+If2fWVOb5g0ApSvUqaQ6C7l9SS/KlrxX0qyXDMf21JwMNvsHFRM4yCIMByiLSID1vOBEZt3vIc48HiETswIDAQAB</keycloak.realm.public.key>
+    <client.secret.token>5a016c6f-edd4-4278-a4af-e88b38d3dcdd</client.secret.token>
   </properties>
 
   <dependencies>
