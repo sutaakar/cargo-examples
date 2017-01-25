@@ -1,5 +1,5 @@
 # cargo-examples
-Examples showing usage of Cargo in integration tests.
+Examples showing usage of Cargo in integration tests. To run any test module just execute "mvn clean install" from test module directory.
 
 ###sample-app-engine
 Contains source code of demo application.
